@@ -12,6 +12,7 @@ import { FooterComponent } from './footer/footer.component';
 import { ProvidersModule } from './providers/providers.module';
 import { NotfoundComponent } from './notfound/notfound.component';
 import { HttpClientModule} from '@angular/common/http';
+import { ProvidersComponent } from './providers/providers.component';
 
 @NgModule({
   declarations: [
